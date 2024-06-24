@@ -141,7 +141,7 @@ python3 main.py
 * OWNER_ID
 * OWNER_TAG
 
-Report Bugs, Give Feature Requests at https://github.com/Sachinanand99/File-Sharing-Telegram-bot/issues 
+Report Bugs, Give Feature Requests at https://github.com/KX3M/File-Sharing-Telegram-bot/issues 
 
 ### Credits
 
